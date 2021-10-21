@@ -1,0 +1,8 @@
+C:\sandboxes\Csharp-basico\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\sandboxes\Csharp-basico\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\sandboxes\Csharp-basico\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\sandboxes\Csharp-basico\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\sandboxes\Csharp-basico\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\sandboxes\Csharp-basico\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\sandboxes\Csharp-basico\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\sandboxes\Csharp-basico\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
