@@ -45,14 +45,28 @@ namespace ConsoleApp
             Console.WriteLine("{0}",name);
                 Console.ReadLine();*/
             //Array
+            /*
             string[] cadenas = new string[4];
             cadenas[0] = "Luis";
             cadenas[1] = "Eduardo";
             cadenas[2] = "Ascanio";
             cadenas[3] = "Jimenez";
             string[] name = { "Luis", "Eduardo", "Ascanio", "Jimenez" };
+            int[] numerocadena = { 1, 2, 3, 4, 5 };
             Console.WriteLine("el resultado es de: {0} {1} {2} {3}", cadenas[0],cadenas[1], cadenas[2], cadenas[3]);
+           /* 
+            for (int i = 0; i < name.Length; i++)
+            {
+                Console.WriteLine("Resultado {0}", name[i] + "age: " + numerocadena[i]);
+            }
+           
+            foreach(var item in name)
+            {
+                Console.WriteLine("Resultado {0}", item);
+            }
+            Console.WriteLine("numeros almacenados en la cadena: {0} {1} {2}",numerocadena[0], numerocadena[1], numerocadena[2] );
             Console.ReadLine();
+            */
         }
     }
 }
